@@ -10,7 +10,6 @@ app.get('/', (req, res) => {
 
       <body style="background-color:Cornsilk;">  
       <h1> DevSecOps Tool Chain Project (RP1) </h1>
-        
         <h3 style="background-color:SlateBlue;">This project was done by Samson, Ayomide, Rolly and Emeka.</h3>
 
         <p> Resources used are located at: </p>
